@@ -1,2 +1,3 @@
 # Spring Boot Properties
-Spring boot properties
+
+## Configyration Properties
